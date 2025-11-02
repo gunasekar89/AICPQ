@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "SKU-001",
+    "name": "BioMotion Quantum Sneaker 1",
+    "brand": "BioMotion",
+    "price": 180.45,
+    "sustainability_score": 0.67,
+    "recycled_material": 0.61,
+    "carbon_offset": 0.78,
+    "image": "sample_images/2.jpg",
+    "clip_features": [
+      0.135,
+      0.15,
+      0.298,
+      0.304,
+      0.755,
+      0.118,
+      0.55,
+      0.879,
+      -0.363,
+      0.693,
+      0.762,
+      0.633,
+      0.924,
+      0.468,
+      0.281,
+      -0.647
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-002",
+    "name": "BioMotion Quantum Sneaker 2",
+    "brand": "BioMotion",
+    "price": 145.24,
+    "sustainability_score": 0.87,
+    "recycled_material": 0.43,
+    "carbon_offset": 0.7,
+    "image": "sample_images/3.jpg",
+    "clip_features": [
+      -0.171,
+      0.562,
+      0.477,
+      0.508,
+      0.434,
+      0.483,
+      0.726,
+      -0.373,
+      -0.278,
+      0.53,
+      0.891,
+      -0.523,
+      -0.603,
+      -0.147,
+      0.549,
+      0.331
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 3
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-003",
+    "name": "EcoWave Quantum Sneaker 3",
+    "brand": "EcoWave",
+    "price": 181.09,
+    "sustainability_score": 0.75,
+    "recycled_material": 0.85,
+    "carbon_offset": 0.59,
+    "image": "sample_images/4.jpg",
+    "clip_features": [
+      0.298,
+      -0.856,
+      -0.131,
+      0.289,
+      0.421,
+      0.331,
+      -0.677,
+      0.603,
+      0.821,
+      -0.711,
+      0.291,
+      0.829,
+      -0.821,
+      0.073,
+      0.212,
+      -0.279
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 4
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-004",
+    "name": "LunarFlex Quantum Sneaker 4",
+    "brand": "LunarFlex",
+    "price": 102.34,
+    "sustainability_score": 0.81,
+    "recycled_material": 0.91,
+    "carbon_offset": 0.64,
+    "image": "sample_images/5.jpg",
+    "clip_features": [
+      0.123,
+      -0.249,
+      0.73,
+      -0.113,
+      0.74,
+      0.793,
+      0.155,
+      0.448,
+      -0.954,
+      0.095,
+      0.819,
+      -0.876,
+      0.976,
+      0.487,
+      0.055,
+      0.507
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 4
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-005",
+    "name": "EcoWave Quantum Sneaker 5",
+    "brand": "EcoWave",
+    "price": 131.41,
+    "sustainability_score": 0.93,
+    "recycled_material": 0.59,
+    "carbon_offset": 0.39,
+    "image": "sample_images/6.jpg",
+    "clip_features": [
+      0.237,
+      -0.572,
+      0.948,
+      -0.677,
+      0.71,
+      0.813,
+      0.977,
+      -0.447,
+      0.07,
+      -0.09,
+      -0.353,
+      0.145,
+      -0.513,
+      0.477,
+      -0.5,
+      -0.921
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-006",
+    "name": "AirNova Quantum Sneaker 6",
+    "brand": "AirNova",
+    "price": 127.01,
+    "sustainability_score": 0.91,
+    "recycled_material": 0.73,
+    "carbon_offset": 0.81,
+    "image": "sample_images/7.jpg",
+    "clip_features": [
+      -0.784,
+      -0.971,
+      -0.929,
+      0.295,
+      -0.716,
+      -0.5,
+      0.315,
+      0.286,
+      -0.558,
+      0.135,
+      -0.91,
+      -0.674,
+      -0.325,
+      -0.73,
+      0.17,
+      -0.369
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 4
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-007",
+    "name": "LunarFlex Quantum Sneaker 7",
+    "brand": "LunarFlex",
+    "price": 212.2,
+    "sustainability_score": 0.96,
+    "recycled_material": 0.71,
+    "carbon_offset": 0.65,
+    "image": "sample_images/8.jpg",
+    "clip_features": [
+      0.294,
+      0.058,
+      0.586,
+      -0.027,
+      0.981,
+      0.507,
+      -0.919,
+      0.047,
+      -0.694,
+      -0.793,
+      0.343,
+      -0.161,
+      0.866,
+      -0.971,
+      0.63,
+      -0.36
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 5
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-008",
+    "name": "FutureStep Quantum Sneaker 8",
+    "brand": "FutureStep",
+    "price": 171.89,
+    "sustainability_score": 0.65,
+    "recycled_material": 0.8,
+    "carbon_offset": 0.54,
+    "image": "sample_images/9.jpg",
+    "clip_features": [
+      -0.256,
+      0.56,
+      -0.556,
+      0.368,
+      -0.073,
+      0.793,
+      0.921,
+      -0.283,
+      0.474,
+      -0.392,
+      -0.212,
+      -0.706,
+      -0.482,
+      -0.064,
+      -0.531,
+      0.681
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 5
+    },
+    "eco_certifications": [
+      "Forest Stewardship Council",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-009",
+    "name": "LunarFlex Quantum Sneaker 9",
+    "brand": "LunarFlex",
+    "price": 145.61,
+    "sustainability_score": 0.97,
+    "recycled_material": 0.78,
+    "carbon_offset": 0.81,
+    "image": "sample_images/10.jpg",
+    "clip_features": [
+      -0.779,
+      -0.652,
+      0.269,
+      -0.181,
+      -0.895,
+      -0.629,
+      0.829,
+      0.802,
+      0.72,
+      0.496,
+      0.118,
+      -0.316,
+      -0.207,
+      0.631,
+      0.561,
+      0.62
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-010",
+    "name": "LunarFlex Quantum Sneaker 10",
+    "brand": "LunarFlex",
+    "price": 209.46,
+    "sustainability_score": 0.94,
+    "recycled_material": 0.73,
+    "carbon_offset": 0.51,
+    "image": "sample_images/1.jpg",
+    "clip_features": [
+      -0.266,
+      -0.81,
+      -0.418,
+      -0.461,
+      0.441,
+      -0.826,
+      0.558,
+      -0.235,
+      0.874,
+      -0.103,
+      0.914,
+      -0.632,
+      0.402,
+      0.39,
+      -0.561,
+      -0.124
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-011",
+    "name": "FutureStep Quantum Sneaker 11",
+    "brand": "FutureStep",
+    "price": 119.18,
+    "sustainability_score": 0.82,
+    "recycled_material": 0.53,
+    "carbon_offset": 0.66,
+    "image": "sample_images/2.jpg",
+    "clip_features": [
+      0.861,
+      -0.758,
+      -0.675,
+      0.238,
+      0.827,
+      0.139,
+      0.393,
+      -0.772,
+      -0.63,
+      -0.436,
+      -0.597,
+      0.775,
+      0.774,
+      0.456,
+      0.757,
+      -0.97
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 5
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-012",
+    "name": "FutureStep Quantum Sneaker 12",
+    "brand": "FutureStep",
+    "price": 115.53,
+    "sustainability_score": 0.9,
+    "recycled_material": 0.83,
+    "carbon_offset": 0.72,
+    "image": "sample_images/3.jpg",
+    "clip_features": [
+      0.312,
+      -0.28,
+      -0.753,
+      -0.894,
+      -0.416,
+      0.475,
+      0.361,
+      -0.883,
+      0.994,
+      -0.108,
+      -0.698,
+      0.793,
+      -0.318,
+      -0.615,
+      0.219,
+      0.41
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-013",
+    "name": "QuantumStride Quantum Sneaker 13",
+    "brand": "QuantumStride",
+    "price": 117.21,
+    "sustainability_score": 0.77,
+    "recycled_material": 0.84,
+    "carbon_offset": 0.77,
+    "image": "sample_images/4.jpg",
+    "clip_features": [
+      0.284,
+      0.079,
+      0.351,
+      -0.139,
+      -0.995,
+      -0.431,
+      0.649,
+      0.896,
+      -0.966,
+      -0.833,
+      -0.617,
+      -1.0,
+      -0.923,
+      0.722,
+      -0.491,
+      0.527
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-014",
+    "name": "SolarKick Quantum Sneaker 14",
+    "brand": "SolarKick",
+    "price": 104.3,
+    "sustainability_score": 0.79,
+    "recycled_material": 0.45,
+    "carbon_offset": 0.59,
+    "image": "sample_images/5.jpg",
+    "clip_features": [
+      0.601,
+      0.979,
+      0.802,
+      -0.65,
+      0.483,
+      0.671,
+      0.781,
+      -0.585,
+      0.04,
+      0.606,
+      -0.648,
+      0.553,
+      0.464,
+      0.33,
+      0.296,
+      0.644
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-015",
+    "name": "SolarKick Quantum Sneaker 15",
+    "brand": "SolarKick",
+    "price": 135.44,
+    "sustainability_score": 0.77,
+    "recycled_material": 0.84,
+    "carbon_offset": 0.58,
+    "image": "sample_images/6.jpg",
+    "clip_features": [
+      -0.058,
+      -0.386,
+      -0.896,
+      -0.975,
+      -0.108,
+      -0.701,
+      0.642,
+      0.504,
+      0.355,
+      0.663,
+      0.905,
+      -0.951,
+      0.716,
+      -0.855,
+      -0.204,
+      -0.352
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-016",
+    "name": "AirNova Quantum Sneaker 16",
+    "brand": "AirNova",
+    "price": 217.95,
+    "sustainability_score": 0.78,
+    "recycled_material": 0.94,
+    "carbon_offset": 0.72,
+    "image": "sample_images/7.jpg",
+    "clip_features": [
+      0.983,
+      0.615,
+      -0.437,
+      0.054,
+      0.528,
+      -0.93,
+      -0.976,
+      -0.362,
+      0.051,
+      0.064,
+      -0.431,
+      -0.746,
+      -0.384,
+      0.892,
+      -0.132,
+      0.474
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-017",
+    "name": "AirNova Quantum Sneaker 17",
+    "brand": "AirNova",
+    "price": 109.91,
+    "sustainability_score": 0.66,
+    "recycled_material": 0.48,
+    "carbon_offset": 0.79,
+    "image": "sample_images/8.jpg",
+    "clip_features": [
+      0.724,
+      0.859,
+      0.166,
+      -0.885,
+      -0.917,
+      0.715,
+      -0.844,
+      0.031,
+      0.835,
+      0.319,
+      0.945,
+      0.45,
+      0.043,
+      0.255,
+      0.637,
+      0.947
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-018",
+    "name": "NeonPulse Quantum Sneaker 18",
+    "brand": "NeonPulse",
+    "price": 118.86,
+    "sustainability_score": 0.68,
+    "recycled_material": 0.82,
+    "carbon_offset": 0.37,
+    "image": "sample_images/9.jpg",
+    "clip_features": [
+      0.824,
+      -0.518,
+      0.706,
+      0.717,
+      -0.392,
+      -0.988,
+      -0.708,
+      -0.832,
+      0.528,
+      -0.176,
+      -0.772,
+      0.52,
+      0.124,
+      0.017,
+      -0.725,
+      -0.0
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-019",
+    "name": "AeroTerra Quantum Sneaker 19",
+    "brand": "AeroTerra",
+    "price": 113.97,
+    "sustainability_score": 0.61,
+    "recycled_material": 0.48,
+    "carbon_offset": 0.47,
+    "image": "sample_images/10.jpg",
+    "clip_features": [
+      0.781,
+      0.951,
+      0.374,
+      0.429,
+      0.515,
+      -0.802,
+      0.332,
+      0.739,
+      0.917,
+      0.374,
+      0.095,
+      -0.939,
+      -0.637,
+      -0.381,
+      0.618,
+      0.166
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-020",
+    "name": "UrbanZen Quantum Sneaker 20",
+    "brand": "UrbanZen",
+    "price": 142.74,
+    "sustainability_score": 0.95,
+    "recycled_material": 0.77,
+    "carbon_offset": 0.71,
+    "image": "sample_images/1.jpg",
+    "clip_features": [
+      0.146,
+      0.832,
+      -0.392,
+      0.179,
+      -0.392,
+      0.658,
+      -0.894,
+      -0.021,
+      0.672,
+      0.483,
+      -0.316,
+      -0.247,
+      0.716,
+      0.662,
+      0.082,
+      0.452
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-021",
+    "name": "NeonPulse Quantum Sneaker 21",
+    "brand": "NeonPulse",
+    "price": 183.33,
+    "sustainability_score": 0.65,
+    "recycled_material": 0.51,
+    "carbon_offset": 0.67,
+    "image": "sample_images/2.jpg",
+    "clip_features": [
+      -0.987,
+      0.984,
+      -0.966,
+      -0.255,
+      -0.422,
+      -0.516,
+      -0.637,
+      0.713,
+      0.243,
+      0.551,
+      0.821,
+      -0.411,
+      0.561,
+      -0.329,
+      -0.828,
+      0.344
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-022",
+    "name": "NeonPulse Quantum Sneaker 22",
+    "brand": "NeonPulse",
+    "price": 211.07,
+    "sustainability_score": 0.71,
+    "recycled_material": 0.62,
+    "carbon_offset": 0.35,
+    "image": "sample_images/3.jpg",
+    "clip_features": [
+      0.302,
+      -0.692,
+      0.749,
+      -0.848,
+      0.213,
+      -0.865,
+      0.783,
+      0.861,
+      0.645,
+      0.646,
+      0.551,
+      -0.192,
+      -0.319,
+      -0.125,
+      -0.643,
+      0.763
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 3
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-023",
+    "name": "EcoWave Quantum Sneaker 23",
+    "brand": "EcoWave",
+    "price": 126.18,
+    "sustainability_score": 0.62,
+    "recycled_material": 0.88,
+    "carbon_offset": 0.43,
+    "image": "sample_images/4.jpg",
+    "clip_features": [
+      -0.302,
+      -0.772,
+      0.618,
+      -0.106,
+      -0.432,
+      0.457,
+      0.198,
+      -0.793,
+      0.813,
+      0.607,
+      -0.512,
+      0.611,
+      -0.155,
+      0.615,
+      -0.884,
+      0.169
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 4
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-024",
+    "name": "EcoWave Quantum Sneaker 24",
+    "brand": "EcoWave",
+    "price": 161.18,
+    "sustainability_score": 0.94,
+    "recycled_material": 0.68,
+    "carbon_offset": 0.63,
+    "image": "sample_images/5.jpg",
+    "clip_features": [
+      -0.202,
+      0.17,
+      -0.579,
+      -0.871,
+      0.698,
+      -0.785,
+      0.538,
+      -0.226,
+      0.456,
+      -0.416,
+      0.489,
+      -0.401,
+      0.176,
+      -0.589,
+      -0.858,
+      -0.563
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-025",
+    "name": "EcoWave Quantum Sneaker 25",
+    "brand": "EcoWave",
+    "price": 127.21,
+    "sustainability_score": 0.76,
+    "recycled_material": 0.63,
+    "carbon_offset": 0.43,
+    "image": "sample_images/6.jpg",
+    "clip_features": [
+      0.58,
+      -0.266,
+      -0.845,
+      0.133,
+      -0.606,
+      -0.161,
+      0.281,
+      -0.344,
+      0.656,
+      0.798,
+      0.904,
+      0.112,
+      0.239,
+      0.715,
+      -0.08,
+      0.455
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-026",
+    "name": "LunarFlex Quantum Sneaker 26",
+    "brand": "LunarFlex",
+    "price": 184.72,
+    "sustainability_score": 0.97,
+    "recycled_material": 0.86,
+    "carbon_offset": 0.7,
+    "image": "sample_images/7.jpg",
+    "clip_features": [
+      0.38,
+      -0.493,
+      -0.07,
+      0.006,
+      0.591,
+      -0.329,
+      0.821,
+      -0.383,
+      -0.053,
+      -0.815,
+      -0.994,
+      0.161,
+      0.398,
+      0.396,
+      -0.591,
+      -0.134
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-027",
+    "name": "FutureStep Quantum Sneaker 27",
+    "brand": "FutureStep",
+    "price": 200.66,
+    "sustainability_score": 0.86,
+    "recycled_material": 0.91,
+    "carbon_offset": 0.54,
+    "image": "sample_images/8.jpg",
+    "clip_features": [
+      0.937,
+      -0.219,
+      -0.628,
+      -0.872,
+      0.252,
+      -0.418,
+      -0.01,
+      0.856,
+      0.34,
+      0.118,
+      0.858,
+      0.895,
+      0.251,
+      -0.531,
+      0.346,
+      -0.711
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-028",
+    "name": "LunarFlex Quantum Sneaker 28",
+    "brand": "LunarFlex",
+    "price": 138.5,
+    "sustainability_score": 0.87,
+    "recycled_material": 0.78,
+    "carbon_offset": 0.79,
+    "image": "sample_images/9.jpg",
+    "clip_features": [
+      -0.17,
+      0.49,
+      0.35,
+      0.315,
+      -0.472,
+      0.082,
+      -0.624,
+      -0.567,
+      0.276,
+      0.869,
+      0.009,
+      0.606,
+      -0.29,
+      -0.139,
+      0.338,
+      -0.081
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-029",
+    "name": "EcoWave Quantum Sneaker 29",
+    "brand": "EcoWave",
+    "price": 107.93,
+    "sustainability_score": 0.67,
+    "recycled_material": 0.92,
+    "carbon_offset": 0.63,
+    "image": "sample_images/10.jpg",
+    "clip_features": [
+      0.078,
+      -0.878,
+      0.313,
+      0.48,
+      -0.894,
+      0.913,
+      -0.525,
+      0.253,
+      0.227,
+      0.732,
+      -0.607,
+      0.273,
+      -0.819,
+      0.841,
+      0.703,
+      0.892
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 3
+    },
+    "eco_certifications": [
+      "Forest Stewardship Council",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-030",
+    "name": "BioMotion Quantum Sneaker 30",
+    "brand": "BioMotion",
+    "price": 105.22,
+    "sustainability_score": 0.69,
+    "recycled_material": 0.55,
+    "carbon_offset": 0.7,
+    "image": "sample_images/1.jpg",
+    "clip_features": [
+      -0.976,
+      0.728,
+      0.422,
+      -0.794,
+      0.857,
+      0.367,
+      0.295,
+      -0.864,
+      0.178,
+      -0.496,
+      -0.911,
+      0.089,
+      -0.691,
+      -0.095,
+      0.243,
+      -0.651
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-031",
+    "name": "QuantumStride Quantum Sneaker 31",
+    "brand": "QuantumStride",
+    "price": 201.7,
+    "sustainability_score": 0.93,
+    "recycled_material": 0.56,
+    "carbon_offset": 0.78,
+    "image": "sample_images/2.jpg",
+    "clip_features": [
+      0.57,
+      -0.649,
+      0.183,
+      0.873,
+      -0.037,
+      0.025,
+      0.133,
+      0.187,
+      -0.911,
+      0.117,
+      -0.334,
+      -0.011,
+      0.786,
+      -0.93,
+      -0.006,
+      0.31
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-032",
+    "name": "NeonPulse Quantum Sneaker 32",
+    "brand": "NeonPulse",
+    "price": 99.57,
+    "sustainability_score": 0.83,
+    "recycled_material": 0.88,
+    "carbon_offset": 0.31,
+    "image": "sample_images/3.jpg",
+    "clip_features": [
+      0.399,
+      0.781,
+      0.131,
+      0.382,
+      0.626,
+      -0.023,
+      -0.692,
+      -0.993,
+      0.382,
+      -0.304,
+      -0.605,
+      0.392,
+      -0.238,
+      -0.745,
+      0.959,
+      0.155
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-033",
+    "name": "BioMotion Quantum Sneaker 33",
+    "brand": "BioMotion",
+    "price": 121.66,
+    "sustainability_score": 0.97,
+    "recycled_material": 0.42,
+    "carbon_offset": 0.32,
+    "image": "sample_images/4.jpg",
+    "clip_features": [
+      0.647,
+      -0.687,
+      -0.644,
+      0.229,
+      0.473,
+      -0.767,
+      -0.826,
+      0.349,
+      0.326,
+      -0.266,
+      -0.963,
+      -0.381,
+      -0.641,
+      -0.757,
+      0.02,
+      0.473
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-034",
+    "name": "UrbanZen Quantum Sneaker 34",
+    "brand": "UrbanZen",
+    "price": 121.76,
+    "sustainability_score": 0.88,
+    "recycled_material": 0.73,
+    "carbon_offset": 0.45,
+    "image": "sample_images/5.jpg",
+    "clip_features": [
+      0.124,
+      -0.378,
+      -0.487,
+      -0.617,
+      -0.69,
+      0.128,
+      -0.443,
+      -0.005,
+      -0.642,
+      0.193,
+      -0.578,
+      0.825,
+      -0.609,
+      -0.844,
+      0.852,
+      0.116
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-035",
+    "name": "UrbanZen Quantum Sneaker 35",
+    "brand": "UrbanZen",
+    "price": 138.99,
+    "sustainability_score": 0.66,
+    "recycled_material": 0.76,
+    "carbon_offset": 0.38,
+    "image": "sample_images/6.jpg",
+    "clip_features": [
+      -0.619,
+      -0.985,
+      0.313,
+      -0.335,
+      0.571,
+      -0.731,
+      0.789,
+      -0.465,
+      0.31,
+      -0.773,
+      -0.6,
+      0.408,
+      -0.617,
+      -0.658,
+      0.212,
+      -0.423
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Forest Stewardship Council",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-036",
+    "name": "QuantumStride Quantum Sneaker 36",
+    "brand": "QuantumStride",
+    "price": 212.55,
+    "sustainability_score": 0.93,
+    "recycled_material": 0.67,
+    "carbon_offset": 0.52,
+    "image": "sample_images/7.jpg",
+    "clip_features": [
+      0.756,
+      -0.989,
+      -0.911,
+      -0.731,
+      0.434,
+      -0.138,
+      -0.818,
+      0.106,
+      -0.738,
+      -0.142,
+      -0.535,
+      -0.852,
+      0.799,
+      0.002,
+      0.17,
+      -0.421
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-037",
+    "name": "SolarKick Quantum Sneaker 37",
+    "brand": "SolarKick",
+    "price": 117.44,
+    "sustainability_score": 0.82,
+    "recycled_material": 0.79,
+    "carbon_offset": 0.35,
+    "image": "sample_images/8.jpg",
+    "clip_features": [
+      0.196,
+      -0.149,
+      -0.28,
+      -0.496,
+      -0.786,
+      0.152,
+      -1.0,
+      0.442,
+      0.875,
+      0.791,
+      -0.248,
+      0.915,
+      -0.759,
+      0.831,
+      -0.837,
+      -0.393
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-038",
+    "name": "AeroTerra Quantum Sneaker 38",
+    "brand": "AeroTerra",
+    "price": 150.83,
+    "sustainability_score": 0.74,
+    "recycled_material": 0.78,
+    "carbon_offset": 0.8,
+    "image": "sample_images/9.jpg",
+    "clip_features": [
+      -0.779,
+      -0.87,
+      0.024,
+      -0.117,
+      -0.446,
+      0.98,
+      0.321,
+      -0.065,
+      -0.488,
+      0.445,
+      0.406,
+      0.911,
+      0.314,
+      -0.286,
+      -0.416,
+      0.19
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 3
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-039",
+    "name": "LunarFlex Quantum Sneaker 39",
+    "brand": "LunarFlex",
+    "price": 217.07,
+    "sustainability_score": 0.89,
+    "recycled_material": 0.65,
+    "carbon_offset": 0.74,
+    "image": "sample_images/10.jpg",
+    "clip_features": [
+      0.827,
+      0.655,
+      0.735,
+      0.768,
+      0.909,
+      0.766,
+      -0.767,
+      0.663,
+      -0.205,
+      -0.409,
+      -0.778,
+      -0.601,
+      0.112,
+      -0.599,
+      -0.617,
+      -0.762
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-040",
+    "name": "NeonPulse Quantum Sneaker 40",
+    "brand": "NeonPulse",
+    "price": 124.2,
+    "sustainability_score": 0.62,
+    "recycled_material": 0.58,
+    "carbon_offset": 0.67,
+    "image": "sample_images/1.jpg",
+    "clip_features": [
+      0.163,
+      0.947,
+      -0.135,
+      0.243,
+      0.673,
+      -0.583,
+      -0.401,
+      -0.333,
+      -0.729,
+      0.041,
+      -0.24,
+      0.089,
+      -0.162,
+      0.551,
+      0.399,
+      -0.594
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-041",
+    "name": "NeonPulse Quantum Sneaker 41",
+    "brand": "NeonPulse",
+    "price": 203.49,
+    "sustainability_score": 0.93,
+    "recycled_material": 0.7,
+    "carbon_offset": 0.61,
+    "image": "sample_images/2.jpg",
+    "clip_features": [
+      -0.982,
+      0.234,
+      0.891,
+      0.369,
+      -0.138,
+      -0.501,
+      0.735,
+      -0.642,
+      0.753,
+      0.319,
+      -0.284,
+      -0.007,
+      0.938,
+      0.417,
+      0.472,
+      0.15
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 5
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-042",
+    "name": "LunarFlex Quantum Sneaker 42",
+    "brand": "LunarFlex",
+    "price": 164.68,
+    "sustainability_score": 0.75,
+    "recycled_material": 0.87,
+    "carbon_offset": 0.33,
+    "image": "sample_images/3.jpg",
+    "clip_features": [
+      -0.636,
+      0.717,
+      0.297,
+      0.025,
+      -0.628,
+      -0.777,
+      0.407,
+      0.792,
+      -0.435,
+      -0.892,
+      -0.796,
+      -0.476,
+      0.947,
+      0.178,
+      -0.374,
+      -0.663
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-043",
+    "name": "NeonPulse Quantum Sneaker 43",
+    "brand": "NeonPulse",
+    "price": 184.99,
+    "sustainability_score": 0.95,
+    "recycled_material": 0.87,
+    "carbon_offset": 0.43,
+    "image": "sample_images/4.jpg",
+    "clip_features": [
+      -0.912,
+      -0.489,
+      0.323,
+      0.174,
+      -0.832,
+      -0.402,
+      0.521,
+      0.5,
+      -0.656,
+      0.717,
+      -0.044,
+      0.501,
+      -0.749,
+      0.906,
+      -0.404,
+      0.405
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-044",
+    "name": "EcoWave Quantum Sneaker 44",
+    "brand": "EcoWave",
+    "price": 195.58,
+    "sustainability_score": 0.96,
+    "recycled_material": 0.95,
+    "carbon_offset": 0.34,
+    "image": "sample_images/5.jpg",
+    "clip_features": [
+      0.533,
+      0.223,
+      -0.072,
+      0.668,
+      0.385,
+      0.494,
+      -0.859,
+      0.139,
+      0.269,
+      0.872,
+      -0.387,
+      0.274,
+      -0.957,
+      0.491,
+      0.046,
+      0.113
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-045",
+    "name": "SolarKick Quantum Sneaker 45",
+    "brand": "SolarKick",
+    "price": 219.41,
+    "sustainability_score": 0.75,
+    "recycled_material": 0.93,
+    "carbon_offset": 0.41,
+    "image": "sample_images/6.jpg",
+    "clip_features": [
+      -0.373,
+      -0.614,
+      -0.029,
+      0.612,
+      0.254,
+      0.781,
+      0.095,
+      -0.098,
+      0.838,
+      0.414,
+      -0.381,
+      0.274,
+      0.569,
+      -0.574,
+      0.542,
+      -0.641
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 3
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-046",
+    "name": "SolarKick Quantum Sneaker 46",
+    "brand": "SolarKick",
+    "price": 176.38,
+    "sustainability_score": 0.66,
+    "recycled_material": 0.72,
+    "carbon_offset": 0.49,
+    "image": "sample_images/7.jpg",
+    "clip_features": [
+      0.288,
+      -0.53,
+      -0.677,
+      -0.804,
+      -0.632,
+      -0.445,
+      -0.773,
+      -0.75,
+      -0.759,
+      -0.225,
+      -0.769,
+      0.42,
+      0.283,
+      0.821,
+      -0.875,
+      -0.022
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-047",
+    "name": "UrbanZen Quantum Sneaker 47",
+    "brand": "UrbanZen",
+    "price": 124.37,
+    "sustainability_score": 0.84,
+    "recycled_material": 0.57,
+    "carbon_offset": 0.38,
+    "image": "sample_images/8.jpg",
+    "clip_features": [
+      0.693,
+      0.647,
+      -0.794,
+      0.689,
+      0.426,
+      -0.833,
+      0.121,
+      0.294,
+      0.108,
+      0.624,
+      0.459,
+      -0.188,
+      0.719,
+      0.34,
+      -0.369,
+      0.298
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-048",
+    "name": "EcoWave Quantum Sneaker 48",
+    "brand": "EcoWave",
+    "price": 187.87,
+    "sustainability_score": 0.67,
+    "recycled_material": 0.93,
+    "carbon_offset": 0.39,
+    "image": "sample_images/9.jpg",
+    "clip_features": [
+      -0.431,
+      -0.821,
+      0.372,
+      -0.74,
+      -0.406,
+      0.545,
+      0.663,
+      0.008,
+      0.557,
+      0.793,
+      -0.424,
+      -0.083,
+      -0.684,
+      -0.814,
+      0.904,
+      -0.962
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-049",
+    "name": "LunarFlex Quantum Sneaker 49",
+    "brand": "LunarFlex",
+    "price": 183.59,
+    "sustainability_score": 0.62,
+    "recycled_material": 0.82,
+    "carbon_offset": 0.58,
+    "image": "sample_images/10.jpg",
+    "clip_features": [
+      -0.559,
+      0.101,
+      -0.431,
+      -0.306,
+      -0.034,
+      -0.051,
+      0.549,
+      -0.669,
+      0.494,
+      -0.143,
+      -0.966,
+      0.072,
+      0.476,
+      0.517,
+      0.345,
+      -0.902
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-050",
+    "name": "BioMotion Quantum Sneaker 50",
+    "brand": "BioMotion",
+    "price": 199.7,
+    "sustainability_score": 0.85,
+    "recycled_material": 0.63,
+    "carbon_offset": 0.78,
+    "image": "sample_images/1.jpg",
+    "clip_features": [
+      -0.276,
+      0.18,
+      0.796,
+      0.991,
+      0.425,
+      0.785,
+      0.635,
+      -0.4,
+      0.315,
+      -0.255,
+      -0.241,
+      -0.165,
+      0.397,
+      -0.78,
+      -0.25,
+      0.918
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Forest Stewardship Council",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-051",
+    "name": "LunarFlex Quantum Sneaker 51",
+    "brand": "LunarFlex",
+    "price": 116.44,
+    "sustainability_score": 0.97,
+    "recycled_material": 0.85,
+    "carbon_offset": 0.31,
+    "image": "sample_images/2.jpg",
+    "clip_features": [
+      -0.418,
+      -0.607,
+      0.136,
+      -0.743,
+      -0.664,
+      -0.502,
+      -0.936,
+      -0.314,
+      -0.001,
+      -0.821,
+      -0.825,
+      0.829,
+      -0.083,
+      0.97,
+      0.456,
+      -0.327
+    ],
+    "vendor": "EcoCourier",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Forest Stewardship Council",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-052",
+    "name": "UrbanZen Quantum Sneaker 52",
+    "brand": "UrbanZen",
+    "price": 213.12,
+    "sustainability_score": 0.95,
+    "recycled_material": 0.48,
+    "carbon_offset": 0.56,
+    "image": "sample_images/3.jpg",
+    "clip_features": [
+      0.85,
+      0.381,
+      0.21,
+      -0.978,
+      0.322,
+      -0.429,
+      0.248,
+      -0.372,
+      -0.391,
+      -0.111,
+      0.457,
+      0.196,
+      0.228,
+      0.773,
+      -0.554,
+      0.243
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Fair Trade"
+    ]
+  },
+  {
+    "id": "SKU-053",
+    "name": "LunarFlex Quantum Sneaker 53",
+    "brand": "LunarFlex",
+    "price": 96.73,
+    "sustainability_score": 0.61,
+    "recycled_material": 0.64,
+    "carbon_offset": 0.67,
+    "image": "sample_images/4.jpg",
+    "clip_features": [
+      0.193,
+      -0.882,
+      -0.31,
+      0.237,
+      0.522,
+      -0.294,
+      -0.611,
+      0.292,
+      -0.144,
+      -0.152,
+      -0.421,
+      0.563,
+      -0.062,
+      -0.474,
+      -0.196,
+      -0.092
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Forest Stewardship Council",
+      "CarbonNeutral"
+    ]
+  },
+  {
+    "id": "SKU-054",
+    "name": "AeroTerra Quantum Sneaker 54",
+    "brand": "AeroTerra",
+    "price": 204.57,
+    "sustainability_score": 0.92,
+    "recycled_material": 0.78,
+    "carbon_offset": 0.37,
+    "image": "sample_images/5.jpg",
+    "clip_features": [
+      0.872,
+      -0.592,
+      -0.66,
+      0.85,
+      -0.468,
+      -0.368,
+      -0.792,
+      0.682,
+      -0.549,
+      0.524,
+      0.938,
+      0.579,
+      0.616,
+      -0.827,
+      -0.466,
+      0.126
+    ],
+    "vendor": "SkyShip",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Global Recycle Standard",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-055",
+    "name": "AirNova Quantum Sneaker 55",
+    "brand": "AirNova",
+    "price": 126.06,
+    "sustainability_score": 0.61,
+    "recycled_material": 0.62,
+    "carbon_offset": 0.48,
+    "image": "sample_images/6.jpg",
+    "clip_features": [
+      -0.569,
+      0.002,
+      -0.471,
+      0.048,
+      -0.376,
+      -0.429,
+      0.673,
+      -0.728,
+      -0.35,
+      0.59,
+      -0.818,
+      0.38,
+      -0.281,
+      -0.189,
+      0.912,
+      -0.169
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 3
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-056",
+    "name": "LunarFlex Quantum Sneaker 56",
+    "brand": "LunarFlex",
+    "price": 150.91,
+    "sustainability_score": 0.62,
+    "recycled_material": 0.83,
+    "carbon_offset": 0.69,
+    "image": "sample_images/7.jpg",
+    "clip_features": [
+      0.465,
+      -0.342,
+      -0.225,
+      0.214,
+      -0.818,
+      -0.905,
+      0.31,
+      0.713,
+      0.367,
+      -0.021,
+      0.207,
+      -0.771,
+      -0.646,
+      -0.414,
+      0.701,
+      -0.071
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-057",
+    "name": "BioMotion Quantum Sneaker 57",
+    "brand": "BioMotion",
+    "price": 218.81,
+    "sustainability_score": 0.91,
+    "recycled_material": 0.41,
+    "carbon_offset": 0.78,
+    "image": "sample_images/8.jpg",
+    "clip_features": [
+      -0.826,
+      0.299,
+      -0.506,
+      -0.496,
+      0.082,
+      0.923,
+      -0.738,
+      -0.058,
+      -0.415,
+      0.617,
+      -0.035,
+      -0.342,
+      0.96,
+      0.749,
+      0.528,
+      -0.47
+    ],
+    "vendor": "QuantumLogix",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Forest Stewardship Council",
+      "Ocean Plastic Initiative"
+    ]
+  },
+  {
+    "id": "SKU-058",
+    "name": "QuantumStride Quantum Sneaker 58",
+    "brand": "QuantumStride",
+    "price": 160.83,
+    "sustainability_score": 0.69,
+    "recycled_material": 0.68,
+    "carbon_offset": 0.65,
+    "image": "sample_images/9.jpg",
+    "clip_features": [
+      0.479,
+      -0.567,
+      0.633,
+      0.258,
+      0.535,
+      -0.678,
+      0.668,
+      -0.06,
+      0.2,
+      -0.328,
+      0.763,
+      -0.953,
+      0.934,
+      0.106,
+      0.977,
+      0.91
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "ev_truck",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "CarbonNeutral",
+      "Forest Stewardship Council"
+    ]
+  },
+  {
+    "id": "SKU-059",
+    "name": "SolarKick Quantum Sneaker 59",
+    "brand": "SolarKick",
+    "price": 145.14,
+    "sustainability_score": 0.68,
+    "recycled_material": 0.86,
+    "carbon_offset": 0.79,
+    "image": "sample_images/10.jpg",
+    "clip_features": [
+      0.989,
+      0.841,
+      -0.965,
+      0.494,
+      -0.874,
+      -0.212,
+      0.758,
+      0.968,
+      0.953,
+      0.037,
+      -0.339,
+      0.728,
+      -0.851,
+      -0.829,
+      0.677,
+      0.35
+    ],
+    "vendor": "UrbanDrop",
+    "delivery_options": {
+      "method": "bike",
+      "eta_days": 1
+    },
+    "eco_certifications": [
+      "Ocean Plastic Initiative",
+      "Global Recycle Standard"
+    ]
+  },
+  {
+    "id": "SKU-060",
+    "name": "NeonPulse Quantum Sneaker 60",
+    "brand": "NeonPulse",
+    "price": 118.1,
+    "sustainability_score": 0.95,
+    "recycled_material": 0.66,
+    "carbon_offset": 0.69,
+    "image": "sample_images/1.jpg",
+    "clip_features": [
+      0.659,
+      0.662,
+      -0.105,
+      -0.72,
+      0.012,
+      0.412,
+      0.765,
+      0.647,
+      0.362,
+      0.572,
+      -0.113,
+      -0.269,
+      0.864,
+      0.071,
+      0.394,
+      -0.907
+    ],
+    "vendor": "GreenExpress",
+    "delivery_options": {
+      "method": "drone",
+      "eta_days": 2
+    },
+    "eco_certifications": [
+      "Fair Trade",
+      "Global Recycle Standard"
+    ]
+  }
+]
