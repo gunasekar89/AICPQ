@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "user_001",
+    "name": "Alex Quantum",
+    "preferences": ["eco", "trail", "high-top"],
+    "purchase_history": [0.2, 0.6, 0.8, 0.4],
+    "image_preferences": ["sample_images/1.jpg", "sample_images/2.jpg"],
+    "delivery_priority": "eco"
+  },
+  {
+    "user_id": "user_002",
+    "name": "Jamie Sneaker",
+    "preferences": ["urban", "low-top", "neon"],
+    "purchase_history": [0.5, 0.7, 0.9, 0.3],
+    "image_preferences": ["sample_images/3.jpg"],
+    "delivery_priority": "speed"
+  }
+]
